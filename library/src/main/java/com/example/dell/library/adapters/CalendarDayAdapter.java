@@ -26,7 +26,6 @@ import java.util.GregorianCalendar;
 /**
  * This class is responsible for loading a one day cell.
  * <p>
- * Created by Mateusz Kornakiewicz on 24.05.2017.
  */
 
 class CalendarDayAdapter extends ArrayAdapter<Date> {
