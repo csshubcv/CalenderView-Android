@@ -23,7 +23,6 @@ import java.util.List;
 /**
  * This class is responsible for loading a calendar page content.
  * <p>
- * Created by Mateusz Kornakiewicz on 24.05.2017.
  */
 
 public class CalendarPageAdapter extends PagerAdapter {
