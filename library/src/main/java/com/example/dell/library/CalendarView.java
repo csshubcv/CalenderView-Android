@@ -49,7 +49,6 @@ import static com.example.dell.library.adapters.CalendarPageAdapter.CALENDAR_SIZ
  * - Set today label color: todayLabelColor="@color/[color]"
  * - Set selection color: selectionColor="@color/[color]"
  * <p>
- * Created by Mateusz Kornakiewicz on 23.05.2017.
  */
 
 public class CalendarView extends LinearLayout {
