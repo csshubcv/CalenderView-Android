@@ -29,10 +29,6 @@ import java.util.List;
 
 import static android.content.ContentValues.TAG;
 
-/**
- * Created by Mateusz Kornakiewicz on 26.05.2017.
- */
-
 public class CalendarFragment extends Fragment {
     private View rootView;
     private JsonData datastr = new JsonData();
