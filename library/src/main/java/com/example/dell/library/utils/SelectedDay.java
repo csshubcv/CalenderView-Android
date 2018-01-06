@@ -8,7 +8,6 @@ import java.util.Calendar;
  * This helper class represent a selected day when calendar is in a picker date mode.
  * It is used to remember a selected calendar cell.
  * <p>
- * Created by Mateusz Kornakiewicz on 23.05.2017.
  */
 
 public class SelectedDay {
