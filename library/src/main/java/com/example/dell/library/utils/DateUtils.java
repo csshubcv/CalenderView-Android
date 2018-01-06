@@ -10,9 +10,6 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.concurrent.TimeUnit;
 
-/**
- * Created by Mateusz Kornakiewicz on 23.05.2017.
- */
 
 public class DateUtils {
 
