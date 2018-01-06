@@ -14,7 +14,6 @@ import java.util.List;
 /**
  * This class contains all properties of the calendar
  * <p>
- * Created by Mateusz Kornakiewicz on 30.10.2017.
  */
 
 public class CalendarProperties {
